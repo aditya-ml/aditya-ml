@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aditya Singhal, a Master's student in Computer Science at Lakehead University, Canada, and Vector Scholar in AI at Vector Institute, Toronto.
+- 👋 Hi, I’m Aditya Singhal, a software Consultant at Deloitte, Toronto, Canada. I hold a Master's in Computer Science degree from Lakehead University and was a Vector Scholar in AI at Vector Institute, Toronto.
 - 👀 I’m interested in web development, data science and machine learning.
-- 🌱 I’m currently learning working on my master's thesis focusing on analyzing social media intervention in healthcare.
-- 💞️ I’m looking for full-time roles starting July 2023 in Canada.
+- 🌱 I’m currently developing AWS and Salesforce solutions for clients.
+- 💞️ I’m open to full-time roles across Canada.
 - 📫 How to reach me: shoot an email to aditya98singhal@gmail.com
 
 <!---
